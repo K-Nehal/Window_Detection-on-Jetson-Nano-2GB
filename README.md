@@ -304,7 +304,7 @@ https://user-images.githubusercontent.com/84449179/151320383-f171cc58-1966-4fe5-
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/K-Nehal/window_detection/blob/main/jetson%20_nano%20.jpg)
 
 
 ## Advantages
