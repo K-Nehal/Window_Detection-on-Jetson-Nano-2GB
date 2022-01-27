@@ -275,7 +275,7 @@ sudo pip3 install -r requirements.txt
 sudo python3 detect.py
 sudo python3 detect.py --weights yolov5s.pt --source 0
 ```
-## Window Dataset Training
+
 ### We used Google Colab And Roboflow
 
 train your model on colab and download the weights and past them into yolov5 folder
@@ -290,6 +290,18 @@ source '0' for webcam
 ```bash
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
+
+## Data training video
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/84449179/151320383-f171cc58-1966-4fe5-bc98-ba24685b72f4.mp4
+
+
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
